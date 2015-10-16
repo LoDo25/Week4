@@ -1,0 +1,65 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  margin:0 auto;
+  max-width:960px;
+  padding-bottom:250px;
+  color: white;
+}
+
+.jumbotron {
+  width: 100%;
+  background-color:#3498db;
+}
+
+h1 {
+  font-size:80px;
+  font-weight: 100;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.jumbotron h2 {
+  font-weight: 100;
+  text-decoration: initial; 
+}
+
+.content {
+  text-align: center;
+  padding: 50px;
+}
+
+img {
+  width: 100%;
+}
+
+.features, .resources {
+  float:left;
+  width:50%;
+}
+
+.features {
+  background-color: #9b59b6;
+}
+
+ul {
+  line-height: 30px;
+}
+
+.resources {
+  background-color: #2ecc71;
+}
+
+.padding {
+  padding: 20px;
+}
+
+a {
+  color: white;
+}
+
+span {
+  color:#9b59b6;
+}
