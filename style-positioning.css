@@ -1,0 +1,28 @@
+.box{
+	height: 150px;
+	width: 150px;
+	background-color: purple;
+	margin: 20px;
+	display: inline-block;
+}
+
+.position{
+	height: 150px;
+	width: 150px;
+	background-color: purple;
+	position: relative;
+	float: left;
+	margin: 20px;
+
+}
+.position-row{
+	height: 150px;
+}
+
+.float{
+	height: 150px;
+	width: 150px;
+	background-color: purple;
+	float: left;
+	margin: 20px;
+	}
